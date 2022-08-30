@@ -1,16 +1,12 @@
-# firebase_flutter_practise
+# Screenshots of app
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/87473741/187433519-164ff8c9-360d-428c-8053-1f25316d6b09.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/87473741/187434363-88298634-60c6-40b3-bfb9-b65934c983e0.png)
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/87473741/187434553-cbde0ee1-bbd7-49ba-a421-7e865e1b97d2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/87473741/187434634-2d1f5283-0f3f-40cc-8ddd-591ad2e98953.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
